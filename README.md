@@ -4,8 +4,6 @@
 
 The **Textbook Exchange App** is a mobile application built for Android using **Jetpack Compose**, **Room**, and **Firebase**. It allows users to exchange textbooks by adding, editing, viewing, and deleting book listings. Users can log in, manage their own listings, and browse books for sale by other users. The app persists data locally using **Room** and syncs with **Firebase Firestore** for remote storage.
 
-This project is developed as part of a mobile app development course for **Milestone 2**, submitted on **March 31, 2025**.
-
 ---
 
 ## Features
